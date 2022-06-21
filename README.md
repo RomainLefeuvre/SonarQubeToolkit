@@ -38,11 +38,7 @@ Tool for extracting measures from each sonarqube project.
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/RomainLefeuvre/SonarQubeToolkit"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/RomainLefeuvre/SonarQubeToolkit">View Demo</a>
-    ·
     <a href="https://github.com/RomainLefeuvre/SonarQubeToolkit/issues">Report Bug</a>
     ·
     <a href="https://github.com/RomainLefeuvre/SonarQubeToolkit/issues">Request Feature</a>
@@ -143,17 +139,6 @@ This is an example of how to list things you need to use the software and how to
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/RomainLefeuvre/SonarQubeToolkit/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -197,16 +182,14 @@ Project Link: [https://github.com/RomainLefeuvre/SonarQubeToolkit](https://githu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/RomainLefeuvre/SonarQubeTolkit.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/RomainLefeuvre/SonarQubeToolkit.svg?style=for-the-badge
 [contributors-url]: https://github.com/RomainLefeuvre/SonarQubeToolkit/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/RomainLefeuvre/SonarQubeTolkit.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/RomainLefeuvre/SonarQubeToolkit.svg?style=for-the-badge
 [forks-url]: https://github.com/RomainLefeuvre/SonarQubeToolkit/network/members
-[stars-shield]: https://img.shields.io/github/stars/RomainLefeuvre/SonarQubeTolkit.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/RomainLefeuvre/SonarQubeToolkit.svg?style=for-the-badge
 [stars-url]: https://github.com/RomainLefeuvre/SonarQubeToolkit/stargazers
-[issues-shield]: https://img.shields.io/github/issues/RomainLefeuvre/SonarQubeTolkit.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/RomainLefeuvre/SonarQubeToolkit.svg?style=for-the-badge
 [issues-url]: https://github.com/RomainLefeuvre/SonarQubeToolkit/issues
-[license-shield]: https://img.shields.io/github/license/RomainLefeuvre/SonarQubeTolkit.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/RomainLefeuvre/SonarQubeToolkit.svg?style=for-the-badge
 [license-url]: https://github.com/RomainLefeuvre/SonarQubeToolkit/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
